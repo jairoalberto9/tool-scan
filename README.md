@@ -15,7 +15,7 @@ Es variada la forma de utilizarla así que ustedes exploten está herramienta y 
 
 ★ DESCARGAS:
 
-• GITHUB: https://github.com/HackeRStrategy/Tool-Web-RS.git
+• GITHUB: https://github.com/jairoalberto9/tool-scan
 
 ★ COMO INSTALAR: 
 
