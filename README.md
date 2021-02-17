@@ -1,4 +1,4 @@
-★ TERMUX-REAL STRATEGY
+★ TERMUX-Alberto-Bosa
  
    Tool-Web-RS   
    
@@ -17,8 +17,6 @@ Es variada la forma de utilizarla así que ustedes exploten está herramienta y 
 
 • GITHUB: https://github.com/HackeRStrategy/Tool-Web-RS.git
 
-• LINK DEL TUTORIAL:  https://www.youtube.com/channel/UCAIFSeW0e6jTmm8SfWQ8FBg 
-
 ★ COMO INSTALAR: 
 
 Es simple el script tiene ya implementado los pasos que deben seguir.
@@ -31,7 +29,7 @@ apt upgrade
 
 pkg install git
 
-git clone https://github.com/HackeRStrategy/Tool-Web-RS.git
+https://github.com/jairoalberto9/tool-scan
 
 ls
 
@@ -69,12 +67,3 @@ bash ToolWeb-RS.sh
 ● Bmon
 ● Netcat
 
-
-★ YOUTUBE : 
-
- https://www.youtube.com/channel/UCAIFSeW0e6jTmm8SfWQ8FBg 
-
-★ Tested On : Windows / Linux / Termux
- 
-
-                          Real Strategy 
